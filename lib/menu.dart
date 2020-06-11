@@ -5,6 +5,7 @@ import 'package:pharmacyapp/main.dart';
 import 'package:pharmacyapp/master-data/master-data.shop.dart';
 import 'package:pharmacyapp/master-data/master-data.stock-item.dart';
 import 'package:pharmacyapp/master-data/master-data.supplier.dart';
+import 'package:pharmacyapp/style/custom-style.dart';
 
 class MenuWidget extends StatefulWidget {
   @override
@@ -420,21 +421,6 @@ class _MenuWidgetState extends State<MenuWidget> {
         onTap: _onItemTapped,
       ),
       backgroundColor: Colors.grey[200],
-    );
-  }
-
-  Decoration decoration() {
-    return BoxDecoration(
-      color: Colors.white,
-      borderRadius: BorderRadius.circular(5),
-      boxShadow: [
-        BoxShadow(
-          color: Colors.grey[400].withOpacity(0.5),
-          spreadRadius: 2,
-          blurRadius: 5,
-          offset: Offset(0, 2), // changes position of shadow
-        ),
-      ],
     );
   }
 }
