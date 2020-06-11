@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d23fe2f1-8af2-489b-860b-8f2c9a8280c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pharmacy_app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1caF3yktyMx4oX0IDwb6vbXhnNf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Data\flutter_app\pharmacy_app\fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="Counter increments smoke test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Counter increments smoke test" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter Test.Counter increments smoke test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.Counter increments smoke test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23fe2f1-8af2-489b-860b-8f2c9a8280c2" name="Default Changelist" comment="" />
+      <created>1590758601803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590758601803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591362558346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1591362558346" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591032330253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591032330253" />
+    <state x="402" y="97" key="#main.dart" timestamp="1591028561524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="97" key="#main.dart/0.0.1366.728@0.0.1366.728" timestamp="1591028561524" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1590923855381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1590923855381" />
+    <state width="1367" height="671" key="GridCell.Tab.0.bottom" timestamp="1591884794022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="671" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591884794022" />
+    <state width="1367" height="671" key="GridCell.Tab.0.center" timestamp="1591884794022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="671" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591884794022" />
+    <state width="1367" height="671" key="GridCell.Tab.0.left" timestamp="1591884794022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="671" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591884794022" />
+    <state width="1367" height="671" key="GridCell.Tab.0.right" timestamp="1591884794022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="671" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591884794022" />
+    <state x="206" y="7" key="SettingsEditor" timestamp="1591087649200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="206" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591087649200" />
+    <state x="92" y="92" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1591087542752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1591087542752" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1591367878931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591367878931" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591087563796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591087563796" />
+  </component>
+</project>
